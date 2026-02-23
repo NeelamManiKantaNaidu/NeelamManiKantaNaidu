@@ -1,15 +1,89 @@
-<h1 align="center">Hi 👋, I'm N Manikanta Naidu</h1>
-<h3 align="center">Cyber Security with the strong Background of ECE</h3>
+# 👋 Hi, I'm Neelam Manikanta Naidu
 
-- 📫 How to reach me **gouthamneelam17@gmail.com**
+**`Cyber Security Student | ECE Background | Ethical Hacker`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neelammanikantanaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelammanikantanaidu" height="30" width="40" /></a>
-<a href="https://instagram.com/__life_learner__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__life_learner__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/neelammanikantanaidu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neelammanikantanaidu" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/535145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="535145" height="30" width="40" /></a>
-</p>
+"Exploring the unseen side of technology — securing the future, one system at a time."
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a passionate Cyber Security student in my 3rd year of B.Tech. With a strong foundation in Electronics and Communication Engineering (ECE), I blend hardware intelligence with cyber awareness — connecting circuits and code to create secure, smart solutions. I believe in "learning by breaking and rebuilding," exploring vulnerabilities to strengthen them, and transforming curiosity into secure technology.
+
+My goal is to become a **Professional Ethical Hacker & IoT Security Expert**, protecting digital environments and empowering safe innovation.
+
+---
+
+### 🛠️ My Toolkit
+
+A comprehensive toolkit for cyber security and development.
+
+**🛡️ Cyber Security**
+Ethical Hacking | Penetration Testing | Network Security | Security Analysis | Vulnerability Assessment
+
+**💻 Programming**
+Python | Full Stack Development | Web Development | Automation | Scripting
+
+**🌐 Networking**
+Network Fundamentals | Network Configuration | Protocol Analysis | Firewall Management | VPN
+
+**🔌 IoT & Hardware**
+IoT Systems | Industry 4.0 | ECE Fundamentals | Embedded Systems | Circuit Design
+
+**⚙️ Tools & Platforms**
+Linux | Git/GitHub | Security Tools (e.g., Wireshark, Metasploit) | Development Tools | Cloud Basics
+
+---
+
+### 🚀 Featured Projects
+
+Here are some projects where I explore vulnerabilities to strengthen them.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Touchless Controller** | An innovative system using camera and voice to control laptops and IoT devices without physical contact. Combines computer vision and voice recognition for hands-free operation. | Python, Computer Vision, Voice Recognition, IoT |
+| **Camera Phishing Tool** | A security research project demonstrating camera-based phishing techniques. Built to raise awareness about webcam security vulnerabilities and protection methods. | Cyber Security, Python, Ethical Hacking |
+| **Automation Systems** | Smart automation solutions for home and industrial applications, integrating IoT devices with security protocols to create intelligent, secure environments. | IoT, Automation, Python, Security |
+| **Security Testing Suite** | A collection of tools and scripts for penetration testing, vulnerability assessment, and security auditing, developed during industrial training and personal projects. | Security Testing, Network Analysis, Python, Linux |
+
+*(You can add links to the repositories for these projects here)*
+
+---
+
+### 📜 Certifications & Experience
+
+**🎓 Certifications**
+*   **IoT & Industry 4.0** - NPTEL (Score: 67% | 2024)
+
+**💼 Experience**
+*   **Cyber Security & Network Training** @ iLite India Pvt. Ltd. (6 Months | 2023-2024)
+    *   Completed hands-on penetration testing exercises and learned network security protocols.
+    *   Developed security assessment skills with industry-standard tools.
+*   **Python Full Stack Development Intern** @ DataValley (2 Months | 2024)
+    *   Built full-stack web applications using Python frameworks.
+    *   Implemented secure authentication systems and learned web security best practices.
+
+**📚 Education**
+*   **B.Tech in Cyber Security** (3rd Year) - A.M. Reddy Memorial College of Engineering & Technology
+*   **Diploma in ECE** (71%) - Government Polytechnic, Parvathipuram
+
+---
+
+### 📊 GitHub Stats
+
+*(You can embed your GitHub stats cards here. For example, using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nelammaniknatanaidu&show_icons=true&theme=radical)](https://github.com/nelammaniknatanaidu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelammaniknatanaidu&layout=compact&theme=radical)](https://github.com/nelammaniknatanaidu)
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing cybersecurity, collaborating on projects, or connecting with like-minded people.
+
+*   **Email:** [gouthamneelam17@gmail.com](mailto:gouthamneelam17@gmail.com)
+*   **LinkedIn:** [manikantanaidu453](https://www.linkedin.com/in/manikantanaidu453) *(Assuming this is your LinkedIn handle)*
+*   **GitHub:** [nelammaniknatanaidu](https://github.com/nelammaniknatanaidu) *(You are here!)*
+*   **Portfolio:** [neelammanikantanaidu.lovable.app](http://neelammanikantanaidu.lovable.app)
+
+---
+
+> "Security isn't just about defense — it's about designing systems that can stand strong."  
+> *— Neelam Manikanta Naidu*
