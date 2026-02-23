@@ -1,76 +1,98 @@
-# 👋 Hi, I'm Neelam Manikanta Naidu
+<h1 align="center">Hi 👋, I'm Neelam Manikanta Naidu</h1>
+<h3 align="center">Cyber Security Student | ECE Background | Ethical Hacker</h3>
 
-**`Cyber Security Student | ECE Background | Ethical Hacker`**
+<p align="center">
+  <i>"Exploring the unseen side of technology — securing the future, one system at a time."</i>
+</p>
 
-"Exploring the unseen side of technology — securing the future, one system at a time."
-
-I'm a passionate Cyber Security student in my 3rd year of B.Tech. With a strong foundation in Electronics and Communication Engineering (ECE), I blend hardware intelligence with cyber awareness — connecting circuits and code to create secure, smart solutions. I believe in "learning by breaking and rebuilding," exploring vulnerabilities to strengthen them, and transforming curiosity into secure technology.
-
-My goal is to become a **Professional Ethical Hacker & IoT Security Expert**, protecting digital environments and empowering safe innovation.
+<p align="center">
+  <a href="http://neelammanikantanaidu.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="mailto:gouthamneelam17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/manikantanaidu453"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-### 🛠️ My Toolkit
+### 🧑‍💻 About Me
 
-A comprehensive toolkit for cyber security and development.
+I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
 
-**🛡️ Cyber Security**
-Ethical Hacking | Penetration Testing | Network Security | Security Analysis | Vulnerability Assessment
+With a strong foundation in **Electronics and Communication Engineering (ECE)** from Government Polytechnic, Parvathipuram (71%), I blend hardware intelligence with cyber awareness — connecting circuits and code to create secure, smart solutions.
 
-**💻 Programming**
-Python | Full Stack Development | Web Development | Automation | Scripting
+- 🔭 I’m currently working on **IoT Security and Penetration Testing projects**.
+- 🌱 I’m currently learning **Advanced Network Security & Exploit Development**.
+- 👯 I’m looking to collaborate on **open-source security tools and cybersecurity research**.
+- 🤔 I’m looking for help with **vulnerability disclosure programs and CTF challenges**.
+- 💬 Ask me about **Ethical Hacking, Python for Security, or IoT Systems**.
+- 📫 How to reach me: **gouthamneelam17@gmail.com**
+- ⚡ Fun fact: I believe in **"learning by breaking and rebuilding"** systems.
 
-**🌐 Networking**
-Network Fundamentals | Network Configuration | Protocol Analysis | Firewall Management | VPN
+**🎯 My Goal:** To become a **Professional Ethical Hacker & IoT Security Expert**, protecting digital environments and empowering safe innovation.
 
-**🔌 IoT & Hardware**
-IoT Systems | Industry 4.0 | ECE Fundamentals | Embedded Systems | Circuit Design
+> *"Security isn't just about defense — it's about designing systems that can stand strong."*
 
-**⚙️ Tools & Platforms**
-Linux | Git/GitHub | Security Tools (e.g., Wireshark, Metasploit) | Development Tools | Cloud Basics
+---
+
+### 🛠️ My Skills & Toolkit
+
+| **Category** | **Technologies & Tools** |
+| :--- | :--- |
+| **🛡️ Cyber Security** | `Ethical Hacking` `Penetration Testing` `Network Security` `Security Analysis` `Vulnerability Assessment` |
+| **💻 Programming** | `Python` `Full Stack Development` `Web Development` `Automation` `Scripting` |
+| **🌐 Networking** | `Network Fundamentals` `Network Configuration` `Protocol Analysis` `Firewall Management` `VPN` |
+| **🔌 IoT & Hardware** | `IoT Systems` `Industry 4.0` `Embedded Systems` `Circuit Design` |
+| **⚙️ Tools & Platforms** | `Linux` `Git/GitHub` `Wireshark` `Metasploit` `Nmap` `Burp Suite` `Development Tools` `Cloud Basics` |
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are some projects where I explore vulnerabilities to strengthen them.
+Here are some of my main projects where I explore vulnerabilities to build stronger systems.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Touchless Controller** | An innovative system using camera and voice to control laptops and IoT devices without physical contact. Combines computer vision and voice recognition for hands-free operation. | Python, Computer Vision, Voice Recognition, IoT |
-| **Camera Phishing Tool** | A security research project demonstrating camera-based phishing techniques. Built to raise awareness about webcam security vulnerabilities and protection methods. | Cyber Security, Python, Ethical Hacking |
-| **Automation Systems** | Smart automation solutions for home and industrial applications, integrating IoT devices with security protocols to create intelligent, secure environments. | IoT, Automation, Python, Security |
-| **Security Testing Suite** | A collection of tools and scripts for penetration testing, vulnerability assessment, and security auditing, developed during industrial training and personal projects. | Security Testing, Network Analysis, Python, Linux |
+#### [![Project Icon] **Touchless Controller**](<#ADD_YOUR_GITHUB_REPO_LINK_HERE>)
+An innovative system using camera and voice to control laptops and IoT devices without physical contact. Combines computer vision and voice recognition for hands-free operation.
+- **Tech Stack:** `Python` `Computer Vision` `Voice Recognition` `IoT`
 
-*(You can add links to the repositories for these projects here)*
+#### [![Project Icon] **Camera Phishing Tool (Educational)**](<#ADD_YOUR_GITHUB_REPO_LINK_HERE>)
+A security research project demonstrating camera-based phishing techniques. Built to raise awareness about webcam security vulnerabilities and methods of protection.
+- **Tech Stack:** `Cyber Security` `Python` `Ethical Hacking`
+
+#### [![Project Icon] **Smart Automation Systems**](<#ADD_YOUR_GITHUB_REPO_LINK_HERE>)
+Developed smart automation solutions for home and industrial applications, integrating IoT devices with security protocols to create intelligent, secure environments.
+- **Tech Stack:** `IoT` `Automation` `Python` `Security`
+
+#### [![Project Icon] **Security Testing Suite**](<#ADD_YOUR_GITHUB_REPO_LINK_HERE>)
+A collection of tools and scripts for penetration testing, vulnerability assessment, and security auditing developed during industrial training and personal projects.
+- **Tech Stack:** `Security Testing` `Network Analysis` `Python` `Linux`
 
 ---
 
 ### 📜 Certifications & Experience
 
-**🎓 Certifications**
-*   **IoT & Industry 4.0** - NPTEL (Score: 67% | 2024)
+#### 🏅 Certifications
+- **IoT & Industry 4.0** (Score: 67%) - *NPTEL (National Programme on Technology Enhanced Learning)* | 2024
 
-**💼 Experience**
-*   **Cyber Security & Network Training** @ iLite India Pvt. Ltd. (6 Months | 2023-2024)
-    *   Completed hands-on penetration testing exercises and learned network security protocols.
-    *   Developed security assessment skills with industry-standard tools.
-*   **Python Full Stack Development Intern** @ DataValley (2 Months | 2024)
-    *   Built full-stack web applications using Python frameworks.
-    *   Implemented secure authentication systems and learned web security best practices.
+#### 💼 Professional Experience
+- **Cyber Security & Network Training** @ iLite India Pvt. Ltd. *(6 Months | 2023-2024)*
+  - Completed hands-on penetration testing exercises and learned network security protocols.
+  - Developed security assessment skills with industry-standard tools.
+- **Python Full Stack Development Intern** @ DataValley *(2 Months | 2024)*
+  - Built full-stack web applications using Python frameworks.
+  - Implemented secure authentication systems and learned web security best practices.
 
-**📚 Education**
-*   **B.Tech in Cyber Security** (3rd Year) - A.M. Reddy Memorial College of Engineering & Technology
-*   **Diploma in ECE** (71%) - Government Polytechnic, Parvathipuram
+#### 📚 Education
+- **B.Tech in Cyber Security** (3rd Year) - *A.M. Reddy Memorial College of Engineering & Technology*
+- **Diploma in ECE** (71%) - *Government Polytechnic, Parvathipuram*
 
 ---
 
 ### 📊 GitHub Stats
 
-*(You can embed your GitHub stats cards here. For example, using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nelammaniknatanaidu&show_icons=true&theme=radical)](https://github.com/nelammaniknatanaidu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelammaniknatanaidu&layout=compact&theme=radical)](https://github.com/nelammaniknatanaidu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -78,12 +100,14 @@ Here are some projects where I explore vulnerabilities to strengthen them.
 
 I'm always open to discussing cybersecurity, collaborating on projects, or connecting with like-minded people.
 
-*   **Email:** [gouthamneelam17@gmail.com](mailto:gouthamneelam17@gmail.com)
-*   **LinkedIn:** [manikantanaidu453](https://www.linkedin.com/in/manikantanaidu453) *(Assuming this is your LinkedIn handle)*
-*   **GitHub:** [nelammaniknatanaidu](https://github.com/nelammaniknatanaidu) *(You are here!)*
-*   **Portfolio:** [neelammanikantanaidu.lovable.app](http://neelammanikantanaidu.lovable.app)
+<p align="center">
+  <a href="http://neelammanikantanaidu.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="mailto:gouthamneelam17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/manikantanaidu453"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/YOUR_ACTUAL_GITHUB_USERNAME"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-> "Security isn't just about defense — it's about designing systems that can stand strong."  
-> *— Neelam Manikanta Naidu*
+<p align="center"> <i>"Securing the future, one system at a time."</i> </p>
+<p align="center"> © 2024 Neelam Manikanta Naidu. Built with security in mind. </p>
