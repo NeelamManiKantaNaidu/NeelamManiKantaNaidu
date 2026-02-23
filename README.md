@@ -33,10 +33,9 @@
 
 I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Reddy Memorial College of Engineering & Technology.
 
-- 🔭 I'm currently working on **IoT Security and Penetration Testing projects**
-- 🌱 I'm currently learning **Advanced Network Security & Exploit Development**
-- 👯 I'm looking to collaborate on **open-source security tools**
-- 💬 Ask me about **Ethical Hacking, Python for Security, or IoT Systems**
+
+
+
 - 📫 How to reach me: **gouthamneelam17@gmail.com**
 - ⚡ Fun fact: I believe in **"learning by breaking and rebuilding"**
 
