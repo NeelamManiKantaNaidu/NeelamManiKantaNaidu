@@ -49,11 +49,11 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
 
 <h3 align="center">🛡️ Cyber Security Core</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Security-00A86B?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-FFA500?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Analysis-4B0082?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking_Learning-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Network_Security_Basic-00A86B?style=for-the-badge&logo=cisco&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Security_Analysis_learning-4B0082?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 <h3 align="center">💻 Programming & Development</h3>
@@ -61,7 +61,7 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF5733?style=for-the-badge&logo=ansible&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
@@ -69,15 +69,14 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Configuration-0078D4?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocol_Analysis-00B5E2?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewall_Management-FF4F00?style=for-the-badge&logo=pfsense&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/VPN-512BD4?style=for-the-badge&logo=openvpn&logoColor=white" />
 </p>
 
 <h3 align="center">🔌 IoT & Hardware</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/IoT_Systems-00A98F?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Industry_4.0-FF6F00?style=for-the-badge&logo=siemens&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Embedded_Systems-0066B3?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Circuit_Design-FFA500?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
 </p>
@@ -88,9 +87,9 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00416A?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Nmap_Basic-00416A?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite_Basic-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 <div align="center">
@@ -200,7 +199,7 @@ I'm a passionate **Cyber Security student** in my 3rd year of B.Tech at A.M. Red
       <ul>
         <li>
           <details>
-            <summary><b>🔒 Cyber Security & Network Training</b> - iLite India Pvt. Ltd. | 2023-2024</summary>
+            <summary><b>PCB Design Training</b> - iLite India Pvt. Ltd. | 2023-2024</summary>
             <br>
             <ul>
               <li>Completed hands-on penetration testing exercises</li>
